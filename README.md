@@ -29,7 +29,11 @@ python wood_chipper.py /some/project main.py,utils.py
 ```
 dir: app
  file: main.py
+/some/project/main.py:
+# this is main.py file contents...
  file: config.py
+/some/project/config.py:
+# this is config.py file contents...
 ```
 
 copied to clipboard, ready to paste into chatgpt.
